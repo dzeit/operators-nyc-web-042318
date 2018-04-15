@@ -12,4 +12,3 @@ end
 #   speed > 60 ? unsafe : safe
 #   speed < 40 ? unsafe : safe
 # end
-
